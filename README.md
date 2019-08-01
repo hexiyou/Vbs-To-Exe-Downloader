@@ -21,7 +21,7 @@ A tool which downloads the official version of Vbs To Exe from the IPFS
 <table>
 <tr>
 <td><b>Version</b></td>
-<td>3.1.0.0</td>
+<td>3.2.0.0</td>
 </tr>
 <tr>
 <td><b>
@@ -36,20 +36,20 @@ Platform</b></td>
 <tr>
 <td><b>
 Last updated</b></td>
-<td>2019-05-18</td>
+<td>2019-08-01</td>
 </tr>
 <tr>
 <td><b>
 MD5</b></td>
-<td>4ae2f5a24a4bafac5d04b3595a871a7b</td>
+<td>00cf334cad705c180704115284e980eb</td>
 </tr>
 
 <tr>
 <td><b>
 Inter-Planetary File System (IPFS)</b></td>
 <td>
-<a href="http://127.0.0.1:8080/ipfs/QmW5V6op8rqanVRFafutx3PxVwqJR7WYr2zhxaVHj2AXfb" target="_blank">
-QmW5V6op8rqanVRFafutx3PxVwqJR7WYr2zhxaVHj2AXfb
+<a href="http://127.0.0.1:8080/ipfs/QmWmtG7pbaUqJHknDSpu9JYXQu73EBKGzgEDLxXMbjuKT8" target="_blank">
+QmWmtG7pbaUqJHknDSpu9JYXQu73EBKGzgEDLxXMbjuKT8
 </a>
 </td>
 </tr>
